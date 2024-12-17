@@ -1,0 +1,6 @@
+
+=== FILE: {filename} ===
+
+{content}
+
+=== END OF {filename} ===
