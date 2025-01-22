@@ -1,6 +1,5 @@
-
-=== FILE: {filename} ===
+=== START: {filepath} ===
 
 {content}
 
-=== END OF {filename} ===
+=== END: {filepath} ===
